@@ -1,4 +1,3 @@
-# matematica
+# Compiti delle vacanze di matematica
 
-compiti di  matematica, principalmente utilizzato per la funzione progetti.
-Forse caricherò anche le scan non so...
+repository creato per quationi organizzative. Forse caricherò anche le scan non so...
