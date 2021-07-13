@@ -1,0 +1,19 @@
+0-geometria
+
+0-sistemi lineari a tre incognite
+0-eq. 2° grado
+0-eq. grado superiore al secondo
+0-sistemi eq. grado superiore al primo
+0-disequazioni grado superiore al secondo
+0-retta piano cartesiano
+0-(prereq.)studio coefficiente retta
+0-(prereq.)parallelismo e perpendicolarità
+0-(prereq.)fasci di rette e robe collegate tipo distanza punto retta
+1-(prereq.)area triangolo (matrice 3x3)
+1-definizione di probabilità
+1-(prereq.)evento opposto
+1-(prereq.)unione ed intersezione eventi
+1-(prereq.)eventi compatibili ed incompatibili
+1-(prereq.)eventi dipendenti ed indipendenti
+1-fattorizzazione di un radicale o robe simili
+2-equazioni e disequazioni col modulo
